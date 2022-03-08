@@ -1,7 +1,7 @@
 # YELP_NLP
 
 The focus of this project was Unsupervised Learning (K-Means Clustering) and Natural Language Processing.
-![](Images/MLLifecycle.png)
+![](https://github.com/METIS-DATA-SCIENCE-PROJECTS/YELP_NLP/blob/main/Images/MLLifecycle.PNG)
 
 **NLP Tools:**
 
