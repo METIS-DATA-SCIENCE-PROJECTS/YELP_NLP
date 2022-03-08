@@ -1,6 +1,7 @@
 # YELP_NLP
 
 The focus of this project was Unsupervised Learning (K-Means Clustering) and Natural Language Processing.
+![](Images/MLLifecycle.png)
 
 **NLP Tools:**
 
