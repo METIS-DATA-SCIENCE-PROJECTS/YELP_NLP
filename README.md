@@ -1,7 +1,7 @@
 # YELP_NLP
 
 The focus of this project was Sentiment Analysis using Wordcloud and Natural Language Processing with Supervised Learning Models.
-![](https://github.com/METIS-DATA-SCIENCE-PROJECTS/YELP_NLP/blob/main/Images/MLLifecycle.PNG)
+![](https://github.com/METIS-DATA-SCIENCE-PROJECTS/YELP_NLP/blob/main/Images/mllife.PNG)
 
 **NLP Tools:**
 
